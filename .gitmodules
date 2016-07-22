@@ -1,0 +1,3 @@
+[submodule "StudyAlgorithms"]
+	path = StudyAlgorithms
+	url = https://github.com/AndrewPonyk/StudyAlgorithms.git
